@@ -1,0 +1,71 @@
+[2018-08-31 17:17:10.361] [renderer1] [info] no standard startup: not just one text editor
+[2018-08-31 17:17:15.223] [renderer1] [info] No grammar found for scope text.html.javadoc
+[2018-08-31 17:40:08.681] [renderer1] [error] Cannot read property 'opening' of null: TypeError: Cannot read property 'opening' of null
+    at getClosingTag (/home/jfvilladiego/.vscode/extensions/vincaslt.highlight-matching-tag-0.4.4/out/src/extension.js:61:35)
+    at findClosingTag (/home/jfvilladiego/.vscode/extensions/vincaslt.highlight-matching-tag-0.4.4/out/src/extension.js:67:46)
+    at findCurrentTag (/home/jfvilladiego/.vscode/extensions/vincaslt.highlight-matching-tag-0.4.4/out/src/extension.js:87:16)
+    at vscode.window.onDidChangeTextEditorSelection (/home/jfvilladiego/.vscode/extensions/vincaslt.highlight-matching-tag-0.4.4/out/src/extension.js:134:28)
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:98:218)
+    at e.$acceptEditorPropertiesChanged (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:774:723)
+    at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:671:983)
+    at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:671:701)
+    at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:670:767)
+    at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:670:536)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:669:452
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:672:575
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:96:903
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:98:218)
+    at a (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:162:713)
+    at Socket._socketDataListener (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:162:932)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20)
+[2018-08-31 17:49:43.011] [renderer1] [error] Cannot read property 'opening' of null: TypeError: Cannot read property 'opening' of null
+    at getClosingTag (/home/jfvilladiego/.vscode/extensions/vincaslt.highlight-matching-tag-0.4.4/out/src/extension.js:61:35)
+    at findClosingTag (/home/jfvilladiego/.vscode/extensions/vincaslt.highlight-matching-tag-0.4.4/out/src/extension.js:67:46)
+    at findCurrentTag (/home/jfvilladiego/.vscode/extensions/vincaslt.highlight-matching-tag-0.4.4/out/src/extension.js:87:16)
+    at vscode.window.onDidChangeTextEditorSelection (/home/jfvilladiego/.vscode/extensions/vincaslt.highlight-matching-tag-0.4.4/out/src/extension.js:134:28)
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:98:218)
+    at e.$acceptEditorPropertiesChanged (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:774:723)
+    at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:671:983)
+    at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:671:701)
+    at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:670:767)
+    at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:670:536)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:669:452
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:672:575
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:96:903
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:98:218)
+    at a (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:162:713)
+    at Socket._socketDataListener (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:162:932)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20)
+[2018-08-31 17:49:45.268] [renderer1] [error] Cannot read property 'opening' of null: TypeError: Cannot read property 'opening' of null
+    at getClosingTag (/home/jfvilladiego/.vscode/extensions/vincaslt.highlight-matching-tag-0.4.4/out/src/extension.js:61:35)
+    at findClosingTag (/home/jfvilladiego/.vscode/extensions/vincaslt.highlight-matching-tag-0.4.4/out/src/extension.js:67:46)
+    at findCurrentTag (/home/jfvilladiego/.vscode/extensions/vincaslt.highlight-matching-tag-0.4.4/out/src/extension.js:87:16)
+    at vscode.window.onDidChangeTextEditorSelection (/home/jfvilladiego/.vscode/extensions/vincaslt.highlight-matching-tag-0.4.4/out/src/extension.js:134:28)
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:98:218)
+    at e.$acceptEditorPropertiesChanged (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:774:723)
+    at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:671:983)
+    at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:671:701)
+    at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:670:767)
+    at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:670:536)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:669:452
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:672:575
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:96:903
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:98:218)
+    at a (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:162:713)
+    at Socket._socketDataListener (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:162:932)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20)
